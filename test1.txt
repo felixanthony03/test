@@ -1,0 +1,4 @@
+learning how to use github and git:
+- it's a VCS
+- it's on the cloud
+- you can connect it with git
